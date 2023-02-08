@@ -11,6 +11,3 @@ function solution(list) {
   return num -1
 }
 
-
-
-console.log(solution(40));
