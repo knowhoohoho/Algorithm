@@ -1,4 +1,4 @@
-const a= [11, 7]
+
 
 function solution(list) {
    const max = Math.max(...list)
