@@ -7,5 +7,3 @@ function solution(list,n) {
   }
   return num 
 }
-
-solution(7,10)
