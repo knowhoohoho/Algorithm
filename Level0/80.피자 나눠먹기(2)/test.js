@@ -8,4 +8,3 @@ function solution(list) {
  return base/6
 }
 
-solution(10)
