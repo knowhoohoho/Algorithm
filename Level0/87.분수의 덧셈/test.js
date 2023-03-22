@@ -12,5 +12,3 @@ function solution(a,b,c,d) {
   }
   return [boonja/num, boonmo/num];
 }
-
-console.log(solution(1,2,3,4));
